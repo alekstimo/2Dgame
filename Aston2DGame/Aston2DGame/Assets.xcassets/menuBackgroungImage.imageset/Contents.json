@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "menuBackgroungImage.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
