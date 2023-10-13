@@ -21,6 +21,7 @@ struct Colors {
     static let darkVioletColor: UIColor = UIColor(named: "backgroundColor") ?? .systemBlue
     static let purpleColor: UIColor = UIColor(named: "purpleColor") ?? .purple
     static let lightPinkColor: UIColor = UIColor(named: "lightPinkColor") ?? .systemPink
+    static let backgroundLightColor: UIColor = UIColor(named: "backgroundLightColor") ?? .systemPink
 }
 struct ImagesNames {
     static let leftArrowButton: String = "leftArrow"

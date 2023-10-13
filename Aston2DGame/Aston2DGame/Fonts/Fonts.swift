@@ -2,7 +2,7 @@
 //  Fonts.swift
 //  Aston2DGame
 //
-//  Created by Кирилл Зезюков on 19.09.2023.
+//  Created by Александра Тимонова on 19.09.2023.
 //
 
 import Foundation

@@ -17,7 +17,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="star" translatesAutoresizingMaskIntoConstraints="NO" id="KoN-Op-hBv">
-                                <rect key="frame" x="148.66666666666666" y="390.66666666666669" width="96" height="96"/>
+                                <rect key="frame" x="146.66666666666666" y="388.66666666666669" width="100" height="100"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="100" id="QcW-d1-4wV"/>
+                                    <constraint firstAttribute="height" constant="100" id="eu5-se-BNf"/>
+                                </constraints>
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -34,6 +38,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="star" width="96" height="96"/>
+        <image name="star" width="432" height="432"/>
     </resources>
 </document>
